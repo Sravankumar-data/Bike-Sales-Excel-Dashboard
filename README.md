@@ -6,7 +6,8 @@ This project focuses on building an interactive **Bike Sales Dashboard in Micros
 
 The dashboard allows users to explore bike purchasing patterns across different **demographic and customer-related factors**.
 
-![Bike Sales Excel Dashboard]()
+![Bike Sales Excel Dashboard](<img width="600" height="427" alt="bike sales dashboard" src="https://github.com/user-attachments/assets/d0f0dab3-8826-4528-ae8a-c553ae58a7d3" />
+)
 
 ---
 
